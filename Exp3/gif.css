@@ -14,7 +14,7 @@
     color: white;
   }
   .content{
-    background-image: url(./bg.jpg);
+    background-image: url(bg.jpg);
     background-repeat: no-repeat;
     opacity: 0.75;
     background-size: 100% 100%;
